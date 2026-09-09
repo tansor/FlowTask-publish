@@ -1,0 +1,8 @@
+{
+  "versionName": "20260909.0844",
+  "versionCode": 20260909,
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/TaskFlow/main/FlowTask_release_20260909_0844.apk",
+  "releaseNotes": "今天视图下新建任务默认今天且无具体时间（FAB/全屏/空态三入口统一）",
+  "publishedAt": "2026-09-09T08:44:24Z",
+  "size": 13631488
+}
