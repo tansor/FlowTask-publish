@@ -1,8 +1,8 @@
 {
-  "versionName": "20260909.1107",
+  "versionName": "20260909.1550",
   "versionCode": 20260909,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/TaskFlow/main/FlowTask_release_20260909_1107.apk",
-  "releaseNotes": "发布通道切换为 GitHub TaskFlow（SSH 推送 + 保留最近 3 个版本）",
-  "publishedAt": "2026-09-09T03:24:19Z",
-  "size": 12918558
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/TaskFlow/main/FlowTask_release_20260909_1550.apk",
+  "releaseNotes": "检查更新接入 GitHub TaskFlow latest.json，自动跟踪最新 release 并展示更新说明",
+  "publishedAt": "2026-09-09T07:50:46Z",
+  "size": 12919334
 }
