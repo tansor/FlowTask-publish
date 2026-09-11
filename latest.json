@@ -1,8 +1,8 @@
 {
-  "versionName": "20260909.1638",
-  "versionCode": 20260909,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20260909_1638.apk",
-  "releaseNotes": "「今天」视图退出到其它目录时自动清除今天的默认日期（仅限今天+收集箱默认态）；发布仓库重命名 ToDo→FlowTask、TaskFlow→FlowTask-publish 并同步脚本与 App 更新源地址",
-  "publishedAt": "2026-09-09T08:38:39Z",
-  "size": 12920122
+  "versionName": "20260911.1646",
+  "versionCode": 20260911,
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20260911_1646.apk",
+  "releaseNotes": "修复「移动到目录」弹窗：复用公共目录树选择器（LazyColumn 可滚动、顶层项左对齐无多余 padding、整行点选父/子目录均可作目标）；新增公共组件 CategoryTreePicker.kt 供新建任务与移动共用",
+  "publishedAt": "2026-09-11T08:46:35Z",
+  "size": 12919494
 }
