@@ -1,8 +1,8 @@
 {
-  "versionName": "20260912.1102",
+  "versionName": "20260912.1140",
   "versionCode": 20260912,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20260912_1102.apk",
-  "releaseNotes": "修复重复任务提醒提前量随重复次数逐次膨胀（如提前11天）；隐藏提醒弹窗空预览框；缩小自定义提前量数字输入框",
-  "publishedAt": "2026-09-12T03:02:15Z",
-  "size": 12919246
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20260912_1140.apk",
+  "releaseNotes": "统一提醒模型：只存相对提前量、具体提醒时刻实时推导；启动时一次性归一化历史提醒（根治重复任务'提前N天'膨胀）；详情页提醒改为「相对提前量 · 具体时刻」",
+  "publishedAt": "2026-09-12T03:40:15Z",
+  "size": 12921766
 }
