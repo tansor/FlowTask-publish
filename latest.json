@@ -1,8 +1,8 @@
 {
-  "versionName": "20260912.1735",
+  "versionName": "20260912.1905",
   "versionCode": 20260912,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20260912_1735.apk",
-  "releaseNotes": "统一四个视图（首页总览/今天/最近七天/栏目）的组内排序：有日期>无日期、日期早>晚、同日期有时间>无时间、同配置优先级高在前",
-  "publishedAt": "2026-09-12T09:35:00Z",
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20260912_1905.apk",
+  "releaseNotes": "修复快捷日期：「本周五」误算成周六（off-by-one）；「下个月」改为下个月的今天（而非下月1号）",
+  "publishedAt": "2026-09-12T11:05:07Z",
   "size": 12923434
 }
