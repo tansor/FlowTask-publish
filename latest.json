@@ -1,8 +1,8 @@
 {
-  "versionName": "20260911.1646",
-  "versionCode": 20260911,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20260911_1646.apk",
-  "releaseNotes": "修复「移动到目录」弹窗：复用公共目录树选择器（LazyColumn 可滚动、顶层项左对齐无多余 padding、整行点选父/子目录均可作目标）；新增公共组件 CategoryTreePicker.kt 供新建任务与移动共用",
-  "publishedAt": "2026-09-11T08:46:35Z",
-  "size": 12919494
+  "versionName": "20260912.1102",
+  "versionCode": 20260912,
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20260912_1102.apk",
+  "releaseNotes": "修复重复任务提醒提前量随重复次数逐次膨胀（如提前11天）；隐藏提醒弹窗空预览框；缩小自定义提前量数字输入框",
+  "publishedAt": "2026-09-12T03:02:15Z",
+  "size": 12919246
 }
