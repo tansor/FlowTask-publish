@@ -1,8 +1,8 @@
 {
-  "versionName": "20260912.1637",
+  "versionName": "20260912.1735",
   "versionCode": 20260912,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20260912_1637.apk",
-  "releaseNotes": "新建/编辑任务：标题与备注加一键清除(x)；约束「有时间必须有日期」(日期下红字提示且禁止保存)；栏目内排序改为有日期>无日期、日期早>晚、同日期有时间>无时间、同配置优先级高在前",
-  "publishedAt": "2026-09-12T08:37:58Z",
-  "size": 12923030
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20260912_1735.apk",
+  "releaseNotes": "统一四个视图（首页总览/今天/最近七天/栏目）的组内排序：有日期>无日期、日期早>晚、同日期有时间>无时间、同配置优先级高在前",
+  "publishedAt": "2026-09-12T09:35:00Z",
+  "size": 12923434
 }
