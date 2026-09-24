@@ -1,8 +1,8 @@
 {
-  "versionName": "20260913.1719",
-  "versionCode": 20260913,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20260913_1719.apk",
-  "releaseNotes": "笔记支持可选日期：笔记桶按日期倒序排、无日期沉底按编辑时间（编辑笔记不再打乱排序）；笔记日期计入排序与列表展示，但不参与今天/最近七天/逾期/日历/提醒",
-  "publishedAt": "2026-09-13T09:19:24Z",
-  "size": 12923066
+  "versionName": "20260924.1024",
+  "versionCode": 20260924,
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20260924_1024.apk",
+  "releaseNotes": "统一重复规则文案：'每周'一律显示具体周几（如'每周周四'，未显式指定时按到期日兜底）；详情页/编辑页/快捷栏三处文案收敛为唯一出口；修复'每2周'间隔被忽略（此前无论间隔几都按每周触发）",
+  "publishedAt": "2026-09-24T02:24:43Z",
+  "size": 12923754
 }
