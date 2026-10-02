@@ -1,8 +1,8 @@
 {
-  "versionName": "20260924.1024",
-  "versionCode": 20260924,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20260924_1024.apk",
-  "releaseNotes": "统一重复规则文案：'每周'一律显示具体周几（如'每周周四'，未显式指定时按到期日兜底）；详情页/编辑页/快捷栏三处文案收敛为唯一出口；修复'每2周'间隔被忽略（此前无论间隔几都按每周触发）",
-  "publishedAt": "2026-09-24T02:24:43Z",
-  "size": 12923754
+  "versionName": "20261002.0955",
+  "versionCode": 20261002,
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261002_0955.apk",
+  "releaseNotes": "经期进行中未结束：从开始日连续染红到今天（不再只标开始日）；状态卡片超期时提示已超 N 天",
+  "publishedAt": "2026-10-02T01:55:48Z",
+  "size": 12923466
 }
