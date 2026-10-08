@@ -1,8 +1,8 @@
 {
-  "versionName": "20261007.0943",
-  "versionCode": 20261007,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261007_0943.apk",
-  "releaseNotes": "目录支持默认新建类型(任务/笔记)：新建/编辑可设置，进入目录后所有新建入口(FAB/速记栏/空状态)默认跟随；含 Room 16→17 迁移与备份兼容",
-  "publishedAt": "2026-10-07T01:43:34Z",
-  "size": 12927294
+  "versionName": "20261008.1324",
+  "versionCode": 20261008,
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261008_1324.apk",
+  "releaseNotes": "速记栏笔记模式：日期按钮启用并直接弹自定义日历；开启笔记/进入笔记默认目录时日期默认选中当天",
+  "publishedAt": "2026-10-08T05:24:37Z",
+  "size": 12927790
 }
