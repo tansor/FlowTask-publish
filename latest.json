@@ -1,8 +1,8 @@
 {
-  "versionName": "20261008.1324",
-  "versionCode": 20261008,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261008_1324.apk",
-  "releaseNotes": "速记栏笔记模式：日期按钮启用并直接弹自定义日历；开启笔记/进入笔记默认目录时日期默认选中当天",
-  "publishedAt": "2026-10-08T05:24:37Z",
-  "size": 12927790
+  "versionName": "20261009.0110",
+  "versionCode": 20261009,
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261009_0110.apk",
+  "releaseNotes": "统一输入框长按选择浮窗：修复 CustomTextToolbar 覆盖 status 属性与 LocalTextToolbar 导入",
+  "publishedAt": "2026-10-08T17:10:04Z",
+  "size": 12932326
 }
