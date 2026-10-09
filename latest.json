@@ -1,8 +1,8 @@
 {
-  "versionName": "20261009.1130",
+  "versionName": "20261009.1154",
   "versionCode": 20261009,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261009_1130.apk",
-  "releaseNotes": "修复长按浮窗在弹层中位置错误：用 localToWindow 获取容器窗口位置，换算选区坐标后传给 Popup offset",
-  "publishedAt": "2026-10-09T03:30:14Z",
-  "size": 12938058
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261009_1154.apk",
+  "releaseNotes": "v20261009.1140 修复标题栏长按浮窗：CustomTextToolbar 锚点改用 localToRoot，与 showMenu 的 rect 同坐标系，消除根→窗口偏移导致的浮窗上移（顶部字段被推到可见区外）",
+  "publishedAt": "2026-10-09T03:54:57Z",
+  "size": 12938126
 }
