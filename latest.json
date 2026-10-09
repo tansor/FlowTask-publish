@@ -1,8 +1,8 @@
 {
-  "versionName": "20261009.1659",
+  "versionName": "20261009.1730",
   "versionCode": 20261009,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261009_1659.apk",
-  "releaseNotes": "v20261009.1705 阶段1 Markdown渲染修复编译错误2（补import、Text改ClickableText、flushText标Composable、AnimatedVisibility命名参数）",
-  "publishedAt": "2026-10-09T08:59:20Z",
-  "size": 13624168
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261009_1730.apk",
+  "releaseNotes": "阶段2: 内容图片插入 + 引用/标题渲染优化",
+  "publishedAt": "2026-10-09T09:30:53Z",
+  "size": 13627712
 }
