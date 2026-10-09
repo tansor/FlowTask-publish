@@ -1,8 +1,8 @@
 {
-  "versionName": "20261009.1300",
+  "versionName": "20261009.1354",
   "versionCode": 20261009,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261009_1300.apk",
-  "releaseNotes": "v20261009.1300 修复浮窗两步关闭：用户点外部关闭记时间戳并抑制框架随后补发的 showMenu(250ms)，避免浮窗被顶回需再点一次；点浮窗按钮仍正常关闭",
-  "publishedAt": "2026-10-09T05:00:49Z",
-  "size": 12938854
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261009_1354.apk",
+  "releaseNotes": "v20261009.1402 修复浮窗两步关闭（补 setValue 导入后重新编译）",
+  "publishedAt": "2026-10-09T05:54:42Z",
+  "size": 12940242
 }
