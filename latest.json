@@ -1,8 +1,8 @@
 {
-  "versionName": "20261010.0008",
+  "versionName": "20261010.0051",
   "versionCode": 20261010,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261010_0008.apk",
-  "releaseNotes": "修复：新建任务弹窗滚动Column在无限高度下崩溃（imePadding移回verticalScroll之后）",
-  "publishedAt": "2026-10-09T16:08:50Z",
-  "size": 13647876
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261010_0051.apk",
+  "releaseNotes": "重构：新建/编辑任务弹窗 — 统一16dp边距、内容框min180dp、设置项压缩为常显胶囊条、标题内容提到上方",
+  "publishedAt": "2026-10-09T16:51:32Z",
+  "size": 13645096
 }
