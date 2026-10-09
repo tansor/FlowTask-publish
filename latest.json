@@ -1,8 +1,8 @@
 {
-  "versionName": "20261009.2243",
+  "versionName": "20261009.2257",
   "versionCode": 20261009,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261009_2243.apk",
-  "releaseNotes": "移除调试条+详情页双击进入编辑(光标置顶)+新建页内容框固定高度",
-  "publishedAt": "2026-10-09T14:43:42Z",
-  "size": 13644292
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261009_2257.apk",
+  "releaseNotes": "修复：键盘弹出时内容编辑框光标未滚入可视区",
+  "publishedAt": "2026-10-09T14:57:22Z",
+  "size": 13646448
 }
