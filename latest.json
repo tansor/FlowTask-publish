@@ -1,8 +1,8 @@
 {
-  "versionName": "20261009.1952",
+  "versionName": "20261009.2111",
   "versionCode": 20261009,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261009_1952.apk",
-  "releaseNotes": "内容区：checkbox打钩变灰+预览可交互 + 完成移至右上角",
-  "publishedAt": "2026-10-09T11:52:29Z",
-  "size": 13630300
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261009_2111.apk",
+  "releaseNotes": "新增 Markdown 快捷输入栏(12键/标题连点/回车续行/缩进反缩进)",
+  "publishedAt": "2026-10-09T13:11:40Z",
+  "size": 13641436
 }
