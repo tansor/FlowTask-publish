@@ -1,8 +1,8 @@
 {
-  "versionName": "20261009.1212",
+  "versionName": "20261009.1227",
   "versionCode": 20261009,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261009_1212.apk",
-  "releaseNotes": "诊断版 v20261009.1215：ProvideAppTextToolbar 增加临时诊断浮层（showMenu 计数/状态/锚点/选区矩形），定位标题栏长按无浮窗",
-  "publishedAt": "2026-10-09T04:12:09Z",
-  "size": 12938906
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261009_1227.apk",
+  "releaseNotes": "v20261009.1235 修复标题栏长按浮窗：CustomTextToolbar 抑制紧跟 showMenu 之后的框架误 hide（长按选中流程竞态），并区分自主动关闭；移除临时诊断浮层",
+  "publishedAt": "2026-10-09T04:27:40Z",
+  "size": 12938610
 }
