@@ -1,8 +1,8 @@
 {
-  "versionName": "20261009.0110",
+  "versionName": "20261009.0931",
   "versionCode": 20261009,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261009_0110.apk",
-  "releaseNotes": "统一输入框长按选择浮窗：修复 CustomTextToolbar 覆盖 status 属性与 LocalTextToolbar 导入",
-  "publishedAt": "2026-10-08T17:10:04Z",
-  "size": 12932326
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261009_0931.apk",
+  "releaseNotes": "修复长按选择浮窗：改用纯 Android View 自绘(避免 ComposeView 挂 PopupWindow 缺 ViewTreeLifecycleOwner 导致闪退)，窗口内坐标定位，活动页/抽屉/对话框统一",
+  "publishedAt": "2026-10-09T01:31:02Z",
+  "size": 12931454
 }
