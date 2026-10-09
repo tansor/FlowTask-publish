@@ -1,8 +1,8 @@
 {
-  "versionName": "20261009.1730",
+  "versionName": "20261009.1741",
   "versionCode": 20261009,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261009_1730.apk",
-  "releaseNotes": "阶段2: 内容图片插入 + 引用/标题渲染优化",
-  "publishedAt": "2026-10-09T09:30:53Z",
-  "size": 13627712
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261009_1741.apk",
+  "releaseNotes": "修复引用块竖线（modifier 顺序 + 更深颜色）",
+  "publishedAt": "2026-10-09T09:41:32Z",
+  "size": 13627744
 }
