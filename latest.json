@@ -1,8 +1,8 @@
 {
-  "versionName": "20261009.1000",
+  "versionName": "20261009.1130",
   "versionCode": 20261009,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261009_1000.apk",
-  "releaseNotes": "修复长按选择浮窗 BadTokenException 闪退：改用 Compose Popup 承载（onSizeChanged 导入修正、state 可见性修正）",
-  "publishedAt": "2026-10-09T02:00:45Z",
-  "size": 12937726
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261009_1130.apk",
+  "releaseNotes": "修复长按浮窗在弹层中位置错误：用 localToWindow 获取容器窗口位置，换算选区坐标后传给 Popup offset",
+  "publishedAt": "2026-10-09T03:30:14Z",
+  "size": 12938058
 }
