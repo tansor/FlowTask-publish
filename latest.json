@@ -1,8 +1,8 @@
 {
-  "versionName": "20261009.1235",
+  "versionName": "20261009.1253",
   "versionCode": 20261009,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261009_1235.apk",
-  "releaseNotes": "v20261009.1242 修复浮窗关闭：容器监听按压（观察式，不消费事件），点其他文本按压时立即关浮窗，实现一步关闭（原依赖框架 hide 被竞态抑制窗吞掉导致要两步）",
-  "publishedAt": "2026-10-09T04:35:14Z",
-  "size": 12938742
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261009_1253.apk",
+  "releaseNotes": "v20261009.1252 修复浮窗关闭：改用宿主 View 层 OnTouchListener（观察式、不消费）监听 ACTION_DOWN 立即关浮窗，替代在 ModalBottomSheet 独立窗口里观察不到的 Compose pointerInput，实现点其他文本一步关闭",
+  "publishedAt": "2026-10-09T04:53:31Z",
+  "size": 12938870
 }
