@@ -1,8 +1,8 @@
 {
-  "versionName": "20261009.0931",
+  "versionName": "20261009.0944",
   "versionCode": 20261009,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261009_0931.apk",
-  "releaseNotes": "修复长按选择浮窗：改用纯 Android View 自绘(避免 ComposeView 挂 PopupWindow 缺 ViewTreeLifecycleOwner 导致闪退)，窗口内坐标定位，活动页/抽屉/对话框统一",
-  "publishedAt": "2026-10-09T01:31:02Z",
-  "size": 12931454
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261009_0944.apk",
+  "releaseNotes": "详细新建(ModalBottomSheet)支持长按选择浮窗：四个弹层内容用 ProvideAppTextToolbar 绑定弹层自身窗口；快捷栏全屏展开后清空本栏并收起光标，避免光标手柄残留在弹层上",
+  "publishedAt": "2026-10-09T01:44:50Z",
+  "size": 12934282
 }
