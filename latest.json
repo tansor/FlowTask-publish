@@ -1,8 +1,8 @@
 {
-  "versionName": "20261009.1227",
+  "versionName": "20261009.1235",
   "versionCode": 20261009,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261009_1227.apk",
-  "releaseNotes": "v20261009.1235 修复标题栏长按浮窗：CustomTextToolbar 抑制紧跟 showMenu 之后的框架误 hide（长按选中流程竞态），并区分自主动关闭；移除临时诊断浮层",
-  "publishedAt": "2026-10-09T04:27:40Z",
-  "size": 12938610
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261009_1235.apk",
+  "releaseNotes": "v20261009.1242 修复浮窗关闭：容器监听按压（观察式，不消费事件），点其他文本按压时立即关浮窗，实现一步关闭（原依赖框架 hide 被竞态抑制窗吞掉导致要两步）",
+  "publishedAt": "2026-10-09T04:35:14Z",
+  "size": 12938742
 }
