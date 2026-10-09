@@ -1,8 +1,8 @@
 {
-  "versionName": "20261009.2323",
-  "versionCode": 20261009,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261009_2323.apk",
-  "releaseNotes": "修复：用 Box+drawBehind 纯装饰容器，点哪滚到哪",
-  "publishedAt": "2026-10-09T15:23:42Z",
-  "size": 13647984
+  "versionName": "20261010.0000",
+  "versionCode": 20261010,
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261010_0000.apk",
+  "releaseNotes": "修复：新建任务弹窗备注框嵌套滚动导致的无限高度闪退（移除内层 verticalScroll）",
+  "publishedAt": "2026-10-09T16:00:28Z",
+  "size": 13647804
 }
