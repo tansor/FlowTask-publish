@@ -1,8 +1,8 @@
 {
-  "versionName": "20261009.0944",
+  "versionName": "20261009.1000",
   "versionCode": 20261009,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261009_0944.apk",
-  "releaseNotes": "详细新建(ModalBottomSheet)支持长按选择浮窗：四个弹层内容用 ProvideAppTextToolbar 绑定弹层自身窗口；快捷栏全屏展开后清空本栏并收起光标，避免光标手柄残留在弹层上",
-  "publishedAt": "2026-10-09T01:44:50Z",
-  "size": 12934282
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261009_1000.apk",
+  "releaseNotes": "修复长按选择浮窗 BadTokenException 闪退：改用 Compose Popup 承载（onSizeChanged 导入修正、state 可见性修正）",
+  "publishedAt": "2026-10-09T02:00:45Z",
+  "size": 12937726
 }
