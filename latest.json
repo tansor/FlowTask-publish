@@ -1,8 +1,8 @@
 {
-  "versionName": "20261009.1354",
+  "versionName": "20261009.1403",
   "versionCode": 20261009,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261009_1354.apk",
-  "releaseNotes": "v20261009.1402 修复浮窗两步关闭（补 setValue 导入后重新编译）",
-  "publishedAt": "2026-10-09T05:54:42Z",
-  "size": 12940242
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261009_1403.apk",
+  "releaseNotes": "v20261009.1405 移除临时诊断浮层与计数逻辑，发布干净版（长按浮窗：标题/备注均显示、点其他文本一步关闭）",
+  "publishedAt": "2026-10-09T06:03:55Z",
+  "size": 12938250
 }
