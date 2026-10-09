@@ -1,8 +1,8 @@
 {
-  "versionName": "20261009.2145",
+  "versionName": "20261009.2156",
   "versionCode": 20261009,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261009_2145.apk",
-  "releaseNotes": "修复续行根因:matches()全匹配→containsMatchIn(前缀匹配)",
-  "publishedAt": "2026-10-09T13:45:05Z",
-  "size": 13643860
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261009_2156.apk",
+  "releaseNotes": "内容编辑态改为固定高度面板:工具栏固定顶部+内容区weight(1f)自适应",
+  "publishedAt": "2026-10-09T13:56:16Z",
+  "size": 13645532
 }
