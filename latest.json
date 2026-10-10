@@ -1,8 +1,8 @@
 {
-  "versionName": "20261010.2309",
+  "versionName": "20261010.2316",
   "versionCode": 20261010,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261010_2309.apk",
-  "releaseNotes": "内容详情页编辑态：同步修复打字/换行时光标滚入可视区（与新建弹窗一致）",
-  "publishedAt": "2026-10-10T15:09:09Z",
-  "size": 13646596
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261010_2316.apk",
+  "releaseNotes": "详情编辑态：系统返回键与顶栏返回箭头均改为保存并退回预览页（不再整个退出本任务/笔记页）",
+  "publishedAt": "2026-10-10T15:16:30Z",
+  "size": 13646832
 }
