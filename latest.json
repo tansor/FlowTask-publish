@@ -1,8 +1,8 @@
 {
-  "versionName": "20261010.2033",
+  "versionName": "20261010.2040",
   "versionCode": 20261010,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261010_2033.apk",
-  "releaseNotes": "详情编辑态顶栏改造：隐藏复制/编辑/删除三按钮，改为「保存」文字按钮；原内容区「完成」按钮功能（退出编辑态即落盘）移植到顶栏保存，编辑区仅保留「内容」标签；预览态顶栏三按钮保持不变",
-  "publishedAt": "2026-10-10T12:33:48Z",
-  "size": 13645492
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261010_2040.apk",
+  "releaseNotes": "新建弹窗顶部 Tab「日期」改名为「任务」（与「笔记」并列），表意更清晰；内部日期/时间逻辑不变",
+  "publishedAt": "2026-10-10T12:40:53Z",
+  "size": 13645720
 }
