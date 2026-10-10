@@ -1,8 +1,8 @@
 {
-  "versionName": "20261010.2339",
+  "versionName": "20261010.2343",
   "versionCode": 20261010,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261010_2339.apk",
-  "releaseNotes": "备份导出/导入改为自包含 ZIP：导出含 backup.json + notes_images/ 图片文件；导入自动识别 zip 或旧版 JSON，恢复图片",
-  "publishedAt": "2026-10-10T15:39:10Z",
-  "size": 13647576
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261010_2343.apk",
+  "releaseNotes": "清除全部数据：连带递归删除 notes_images/ 图片目录，实现真正彻底清空",
+  "publishedAt": "2026-10-10T15:43:59Z",
+  "size": 13647232
 }
