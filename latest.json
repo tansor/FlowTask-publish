@@ -1,8 +1,8 @@
 {
-  "versionName": "20261010.2343",
-  "versionCode": 20261010,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261010_2343.apk",
-  "releaseNotes": "清除全部数据：连带递归删除 notes_images/ 图片目录，实现真正彻底清空",
-  "publishedAt": "2026-10-10T15:43:59Z",
-  "size": 13647232
+  "versionName": "20261011.0750",
+  "versionCode": 20261011,
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261011_0750.apk",
+  "releaseNotes": "Markdown 列表支持缩进嵌套：复选框/有序/无序按层级缩进渲染，复选框父项勾选联动所有更深层子项",
+  "publishedAt": "2026-10-10T23:50:33Z",
+  "size": 13648532
 }
