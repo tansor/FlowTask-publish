@@ -1,8 +1,8 @@
 {
-  "versionName": "20261010.1143",
+  "versionName": "20261010.2023",
   "versionCode": 20261010,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261010_1143.apk",
-  "releaseNotes": "Markdown 工具栏按使用习惯重排（缩进→反缩进→图片→标题→复选框→无序→有序→粗体→引用→链接→斜体→折叠块），并整体紧凑化：按钮 40→36dp、图标 20→18dp、整栏边距收紧、圆角 8→6dp",
-  "publishedAt": "2026-10-10T03:43:22Z",
-  "size": 13645976
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261010_2023.apk",
+  "releaseNotes": "新建/编辑内容框限高：根容器改为满屏固定，工具栏与内容框组成弹性区，内容框最大高度=屏幕剩余空间（屏幕−Tab−标题−工具栏−胶囊−保存），长内容内部滚动，整页不再溢出；TaskDetailScreen 编辑态本已满足该约束未改动",
+  "publishedAt": "2026-10-10T12:23:54Z",
+  "size": 13645652
 }
