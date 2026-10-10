@@ -1,8 +1,8 @@
 {
-  "versionName": "20261010.2242",
+  "versionName": "20261010.2300",
   "versionCode": 20261010,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261010_2242.apk",
-  "releaseNotes": "新建/编辑任务弹窗默认高度改为屏幕约0.618，点击内容框后扩展到全屏",
-  "publishedAt": "2026-10-10T14:42:17Z",
-  "size": 13645960
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261010_2300.apk",
+  "releaseNotes": "修复：内容超过框高后继续输入，光标跑到屏幕外；现打字/换行/光标移动都会自动把光标滚入内容框可视区",
+  "publishedAt": "2026-10-10T15:00:14Z",
+  "size": 13646260
 }
