@@ -1,8 +1,8 @@
 {
-  "versionName": "20261010.2040",
+  "versionName": "20261010.2242",
   "versionCode": 20261010,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261010_2040.apk",
-  "releaseNotes": "新建弹窗顶部 Tab「日期」改名为「任务」（与「笔记」并列），表意更清晰；内部日期/时间逻辑不变",
-  "publishedAt": "2026-10-10T12:40:53Z",
-  "size": 13645720
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261010_2242.apk",
+  "releaseNotes": "新建/编辑任务弹窗默认高度改为屏幕约0.618，点击内容框后扩展到全屏",
+  "publishedAt": "2026-10-10T14:42:17Z",
+  "size": 13645960
 }
