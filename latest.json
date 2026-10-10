@@ -1,8 +1,8 @@
 {
-  "versionName": "20261010.2023",
+  "versionName": "20261010.2033",
   "versionCode": 20261010,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261010_2023.apk",
-  "releaseNotes": "新建/编辑内容框限高：根容器改为满屏固定，工具栏与内容框组成弹性区，内容框最大高度=屏幕剩余空间（屏幕−Tab−标题−工具栏−胶囊−保存），长内容内部滚动，整页不再溢出；TaskDetailScreen 编辑态本已满足该约束未改动",
-  "publishedAt": "2026-10-10T12:23:54Z",
-  "size": 13645652
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261010_2033.apk",
+  "releaseNotes": "详情编辑态顶栏改造：隐藏复制/编辑/删除三按钮，改为「保存」文字按钮；原内容区「完成」按钮功能（退出编辑态即落盘）移植到顶栏保存，编辑区仅保留「内容」标签；预览态顶栏三按钮保持不变",
+  "publishedAt": "2026-10-10T12:33:48Z",
+  "size": 13645492
 }
