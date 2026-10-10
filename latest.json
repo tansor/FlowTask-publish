@@ -1,8 +1,8 @@
 {
-  "versionName": "20261010.0051",
+  "versionName": "20261010.0859",
   "versionCode": 20261010,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261010_0051.apk",
-  "releaseNotes": "重构：新建/编辑任务弹窗 — 统一16dp边距、内容框min180dp、设置项压缩为常显胶囊条、标题内容提到上方",
-  "publishedAt": "2026-10-09T16:51:32Z",
-  "size": 13645096
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261010_0859.apk",
+  "releaseNotes": "重构：优先级收入设置胶囊条，点击弹出 4 档+不设置选择器（与其他设置项同一套交互）",
+  "publishedAt": "2026-10-10T00:59:08Z",
+  "size": 13645844
 }
