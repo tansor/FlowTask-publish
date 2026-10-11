@@ -1,8 +1,8 @@
 {
-  "versionName": "20261011.1720",
+  "versionName": "20261011.1731",
   "versionCode": 20261011,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261011_1720.apk",
-  "releaseNotes": "修复深色模式内容区文字不可见：Surface(color=SurfaceMuted)补contentColor，MarkdownText显式兜底前景色并按主题渲染行内代码背景",
-  "publishedAt": "2026-10-11T09:20:23Z",
-  "size": 13654252
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261011_1731.apk",
+  "releaseNotes": "详情页「未完成」方框改为自绘圆角方块，与文字垂直居中对齐",
+  "publishedAt": "2026-10-11T09:31:18Z",
+  "size": 13655116
 }
