@@ -1,8 +1,8 @@
 {
-  "versionName": "20261011.1652",
+  "versionName": "20261011.1720",
   "versionCode": 20261011,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261011_1652.apk",
-  "releaseNotes": "详情页：「转为任务/转为笔记」改为纯文字按钮并右端对齐，与解析/编辑风格统一",
-  "publishedAt": "2026-10-11T08:52:43Z",
-  "size": 13653492
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261011_1720.apk",
+  "releaseNotes": "修复深色模式内容区文字不可见：Surface(color=SurfaceMuted)补contentColor，MarkdownText显式兜底前景色并按主题渲染行内代码背景",
+  "publishedAt": "2026-10-11T09:20:23Z",
+  "size": 13654252
 }
