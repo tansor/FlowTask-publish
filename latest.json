@@ -1,8 +1,8 @@
 {
-  "versionName": "20261011.1206",
+  "versionName": "20261011.1547",
   "versionCode": 20261011,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261011_1206.apk",
-  "releaseNotes": "新增内容解析模式：详情页可切换 auto/markdown/text 三态；数据库加 parseMode 字段并升级至 v18",
-  "publishedAt": "2026-10-11T04:06:23Z",
-  "size": 13654480
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261011_1547.apk",
+  "releaseNotes": "详情页「内容」行：解析按钮加「解析：」前缀明确语义；解析/编辑改为与「内容」同字号纯文字按钮，去除圆角背景并纵向对齐",
+  "publishedAt": "2026-10-11T07:47:36Z",
+  "size": 13654636
 }
