@@ -1,8 +1,8 @@
 {
-  "versionName": "20261011.1750",
+  "versionName": "20261011.2214",
   "versionCode": 20261011,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261011_1750.apk",
-  "releaseNotes": "详情页完成方框对齐：改用 LineHeightStyle 裁掉行框多余行距使文字包围盒紧贴字形，方框按行框居中即等于按字形居中，彻底消除上下间距不对称；「转为笔记」保持蓝色",
-  "publishedAt": "2026-10-11T09:50:05Z",
-  "size": 13655300
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261011_2214.apk",
+  "releaseNotes": "修复自动解析探测：补齐图片/链接/围栏代码/折叠块/引用/粗体语法识别，使工具条产出的 markdown（如仅含一张图的笔记）在 AUTO 模式下正确渲染而非原样显示",
+  "publishedAt": "2026-10-11T14:14:06Z",
+  "size": 13655580
 }
