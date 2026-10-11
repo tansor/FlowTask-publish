@@ -1,8 +1,8 @@
 {
-  "versionName": "20261011.0750",
+  "versionName": "20261011.0812",
   "versionCode": 20261011,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261011_0750.apk",
-  "releaseNotes": "Markdown 列表支持缩进嵌套：复选框/有序/无序按层级缩进渲染，复选框父项勾选联动所有更深层子项",
-  "publishedAt": "2026-10-10T23:50:33Z",
-  "size": 13648532
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261011_0812.apk",
+  "releaseNotes": "编辑态有序列表缩进/反缩进/有序切换/回车续行后自动重新编号：子列表独立从1重排，与渲染态一致",
+  "publishedAt": "2026-10-11T00:12:34Z",
+  "size": 13650172
 }
