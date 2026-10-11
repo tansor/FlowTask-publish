@@ -1,8 +1,8 @@
 {
-  "versionName": "20261011.0812",
+  "versionName": "20261011.0846",
   "versionCode": 20261011,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261011_0812.apk",
-  "releaseNotes": "编辑态有序列表缩进/反缩进/有序切换/回车续行后自动重新编号：子列表独立从1重排，与渲染态一致",
-  "publishedAt": "2026-10-11T00:12:34Z",
-  "size": 13650172
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261011_0846.apk",
+  "releaseNotes": "修复有序列表重排丢正文/重复数字的bug：正则分组下标用错（groupValues[2]应为[3]，并补回[4]正文）",
+  "publishedAt": "2026-10-11T00:46:27Z",
+  "size": 13649952
 }
