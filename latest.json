@@ -1,8 +1,8 @@
 {
-  "versionName": "20261011.2214",
-  "versionCode": 20261011,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261011_2214.apk",
-  "releaseNotes": "修复自动解析探测：补齐图片/链接/围栏代码/折叠块/引用/粗体语法识别，使工具条产出的 markdown（如仅含一张图的笔记）在 AUTO 模式下正确渲染而非原样显示",
-  "publishedAt": "2026-10-11T14:14:06Z",
-  "size": 13655580
+  "versionName": "20261012.2209",
+  "versionCode": 20261012,
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261012_2209.apk",
+  "releaseNotes": "修复有序列表序号对齐：列表项标记由垂直居中改为贴顶对齐首行，序号/项目符号/复选框在换行多行时停在第一行起始处",
+  "publishedAt": "2026-10-12T14:09:11Z",
+  "size": 13655520
 }
