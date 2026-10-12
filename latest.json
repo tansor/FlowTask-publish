@@ -1,8 +1,8 @@
 {
-  "versionName": "20261013.0002",
+  "versionName": "20261013.0019",
   "versionCode": 20261013,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261013_0002.apk",
-  "releaseNotes": "修复详情页双击进入编辑：双击手势改在 Initial 通道被动监听、不消费事件，避免被内层复选框/链接的单击抢走，正文任意位置（含勾选项）双击均可进编辑",
-  "publishedAt": "2026-10-12T16:02:27Z",
-  "size": 13655996
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261013_0019.apk",
+  "releaseNotes": "修复侧边栏「我的列表」不可滚动：内容 Column 加 verticalScroll，小屏/全部展开时底部列表可滚动查看；管理列表 FAB 仍固定在底部",
+  "publishedAt": "2026-10-12T16:19:32Z",
+  "size": 13656416
 }
