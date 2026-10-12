@@ -1,8 +1,8 @@
 {
-  "versionName": "20261012.2209",
-  "versionCode": 20261012,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261012_2209.apk",
-  "releaseNotes": "修复有序列表序号对齐：列表项标记由垂直居中改为贴顶对齐首行，序号/项目符号/复选框在换行多行时停在第一行起始处",
-  "publishedAt": "2026-10-12T14:09:11Z",
-  "size": 13655520
+  "versionName": "20261013.0002",
+  "versionCode": 20261013,
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261013_0002.apk",
+  "releaseNotes": "修复详情页双击进入编辑：双击手势改在 Initial 通道被动监听、不消费事件，避免被内层复选框/链接的单击抢走，正文任意位置（含勾选项）双击均可进编辑",
+  "publishedAt": "2026-10-12T16:02:27Z",
+  "size": 13655996
 }
