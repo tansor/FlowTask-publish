@@ -1,8 +1,8 @@
 {
-  "versionName": "20261013.1717",
+  "versionName": "20261013.2141",
   "versionCode": 20261013,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261013_1717.apk",
-  "releaseNotes": "侧边栏滚动范围收窄：仅「我的列表」目录树可滚动，标题/智能视图/我的列表标题保持固定",
-  "publishedAt": "2026-10-13T09:17:44Z",
-  "size": 13656368
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261013_2141.apk",
+  "releaseNotes": "深色模式下 BasicTextField 光标设为跟随主题主色（SolidColor(Primary)），修复光标变黑看不清",
+  "publishedAt": "2026-10-13T13:41:54Z",
+  "size": 13656540
 }
