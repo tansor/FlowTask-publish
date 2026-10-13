@@ -1,8 +1,8 @@
 {
-  "versionName": "20261013.0938",
+  "versionName": "20261013.1717",
   "versionCode": 20261013,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261013_0938.apk",
-  "releaseNotes": "侧边栏统计改为只计未完成：我的列表/收集箱/今天/最近七天的角标数量均排除已完成任务",
-  "publishedAt": "2026-10-13T01:38:21Z",
-  "size": 13656000
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261013_1717.apk",
+  "releaseNotes": "侧边栏滚动范围收窄：仅「我的列表」目录树可滚动，标题/智能视图/我的列表标题保持固定",
+  "publishedAt": "2026-10-13T09:17:44Z",
+  "size": 13656368
 }
