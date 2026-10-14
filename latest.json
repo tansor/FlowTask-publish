@@ -1,8 +1,8 @@
 {
-  "versionName": "20261014.0943",
+  "versionName": "20261014.0956",
   "versionCode": 20261014,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261014_0943.apk",
-  "releaseNotes": "习惯图标选择器改为3行横向滑动网格（避免与弹窗拖拽冲突、更紧凑）；图标目录扩充12个同风格图标至36个",
-  "publishedAt": "2026-10-14T01:43:52Z",
-  "size": 13657016
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261014_0956.apk",
+  "releaseNotes": "习惯图标目录按类型分组重排（运动/健康/学习创造/生活社交/休闲），同类型图标在3行横向网格中聚拢；默认项check留首位",
+  "publishedAt": "2026-10-14T01:56:28Z",
+  "size": 13657164
 }
