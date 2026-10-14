@@ -1,8 +1,8 @@
 {
-  "versionName": "20261013.2141",
-  "versionCode": 20261013,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261013_2141.apk",
-  "releaseNotes": "深色模式下 BasicTextField 光标设为跟随主题主色（SolidColor(Primary)），修复光标变黑看不清",
-  "publishedAt": "2026-10-13T13:41:54Z",
-  "size": 13656540
+  "versionName": "20261014.0943",
+  "versionCode": 20261014,
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261014_0943.apk",
+  "releaseNotes": "习惯图标选择器改为3行横向滑动网格（避免与弹窗拖拽冲突、更紧凑）；图标目录扩充12个同风格图标至36个",
+  "publishedAt": "2026-10-14T01:43:52Z",
+  "size": 13657016
 }
