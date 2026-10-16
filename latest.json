@@ -1,8 +1,8 @@
 {
-  "versionName": "20261014.0956",
-  "versionCode": 20261014,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261014_0956.apk",
-  "releaseNotes": "习惯图标目录按类型分组重排（运动/健康/学习创造/生活社交/休闲），同类型图标在3行横向网格中聚拢；默认项check留首位",
-  "publishedAt": "2026-10-14T01:56:28Z",
-  "size": 13657164
+  "versionName": "20261016.2046",
+  "versionCode": 20261016,
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261016_2046.apk",
+  "releaseNotes": "习惯模块重设计落地：顶栏本周达标X/Y+统计/显示/分组图标；四布局(标准/紧凑/卡片2列/3列)持久化；列表与卡片共用圆环+x/y进度组件；三列卡片圆环内+1/其余详情/长按编辑删除撤销；新增独立统计页与习惯显示设置子页",
+  "publishedAt": "2026-10-16T12:46:21Z",
+  "size": 13695916
 }
