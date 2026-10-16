@@ -1,8 +1,8 @@
 {
-  "versionName": "20261016.2241",
+  "versionName": "20261016.2312",
   "versionCode": 20261016,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261016_2241.apk",
-  "releaseNotes": "习惯模块视觉修复：进度环改为空心描边环(底层轨道+进度弧)；打卡达标后圆环/卡片显示对钩而非x/x；新增近7天打卡趋势点阵(列表行/卡片按showTrend展示，接通ViewModel数据管线)",
-  "publishedAt": "2026-10-16T14:41:13Z",
-  "size": 13700536
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261016_2312.apk",
+  "releaseNotes": "习惯模块微调：提醒改为铃铛角标(仅多提醒显示xN,单次只显示铃铛,不再平铺时间)；副标题已坚持统一改为连续；习惯详情新增连续打卡视图(近30天热力网格+当前连续数,当前连续区间实心强调)",
+  "publishedAt": "2026-10-16T15:12:46Z",
+  "size": 13705196
 }
