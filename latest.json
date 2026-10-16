@@ -1,8 +1,8 @@
 {
-  "versionName": "20261016.2312",
-  "versionCode": 20261016,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261016_2312.apk",
-  "releaseNotes": "习惯模块微调：提醒改为铃铛角标(仅多提醒显示xN,单次只显示铃铛,不再平铺时间)；副标题已坚持统一改为连续；习惯详情新增连续打卡视图(近30天热力网格+当前连续数,当前连续区间实心强调)",
-  "publishedAt": "2026-10-16T15:12:46Z",
-  "size": 13705196
+  "versionName": "20261017.0240",
+  "versionCode": 20261017,
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261017_0240.apk",
+  "releaseNotes": "习惯页顶栏「本周达标」更正为「今日达标」；详情页连续打卡热力图格子由方形改为圆形",
+  "publishedAt": "2026-10-16T18:40:27Z",
+  "size": 13704824
 }
