@@ -1,8 +1,8 @@
 {
-  "versionName": "20261019.0040",
+  "versionName": "20261019.0045",
   "versionCode": 20261019,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261019_0040.apk",
-  "releaseNotes": "经期新增列表视图：主页顶栏「统计」按钮跳转新页面，展示每次经期起止时间段(倒序)、持续天数、距上次N天、状态(进行中兼容至今/第N天)",
-  "publishedAt": "2026-10-18T16:40:48Z",
-  "size": 13711968
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261019_0045.apk",
+  "releaseNotes": "经期记录列表：日期补年份(非当年/跨年时显示)，移除无意义的#序号",
+  "publishedAt": "2026-10-18T16:45:52Z",
+  "size": 13711784
 }
