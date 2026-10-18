@@ -1,8 +1,8 @@
 {
-  "versionName": "20261018.1507",
+  "versionName": "20261018.2355",
   "versionCode": 20261018,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261018_1507.apk",
-  "releaseNotes": "系统闹钟模式：兜底通知去掉动作按钮(完成打卡/忽略)，避免与全屏闹钟页双份按钮；仅顶部通知模式保留按钮",
-  "publishedAt": "2026-10-18T07:07:05Z",
-  "size": 13704824
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261018_2355.apk",
+  "releaseNotes": "设置页「外观」分组新增「习惯显示」入口，跳转现有习惯显示页",
+  "publishedAt": "2026-10-18T15:55:35Z",
+  "size": 13705232
 }
