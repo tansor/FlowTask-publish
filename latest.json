@@ -1,8 +1,8 @@
 {
-  "versionName": "20261019.0045",
+  "versionName": "20261019.1411",
   "versionCode": 20261019,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261019_0045.apk",
-  "releaseNotes": "经期记录列表：日期补年份(非当年/跨年时显示)，移除无意义的#序号",
-  "publishedAt": "2026-10-18T16:45:52Z",
-  "size": 13711784
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261019_1411.apk",
+  "releaseNotes": "习惯详情页新增「更多」菜单：编辑(复用AddHabitSheet)与删除(确认框，含撤闹钟)",
+  "publishedAt": "2026-10-19T06:11:52Z",
+  "size": 13717800
 }
