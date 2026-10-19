@@ -1,8 +1,8 @@
 {
-  "versionName": "20261019.1411",
+  "versionName": "20261019.1713",
   "versionCode": 20261019,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261019_1411.apk",
-  "releaseNotes": "习惯详情页新增「更多」菜单：编辑(复用AddHabitSheet)与删除(确认框，含撤闹钟)",
-  "publishedAt": "2026-10-19T06:11:52Z",
-  "size": 13717800
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261019_1713.apk",
+  "releaseNotes": "习惯详情页新增打卡/撤销按钮：今日未打卡显示「打卡」、已打卡显示「撤销打卡」，复用CheckIn/UndoCheckIn用例并刷新",
+  "publishedAt": "2026-10-19T09:13:23Z",
+  "size": 13720372
 }
