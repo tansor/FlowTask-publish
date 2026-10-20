@@ -1,8 +1,8 @@
 {
-  "versionName": "20261020.2331",
+  "versionName": "20261020.2346",
   "versionCode": 20261020,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261020_2331.apk",
-  "releaseNotes": "习惯图标新增深蹲/俯卧撑/跳绳（手绘矢量）；修复编辑/新建习惯后退回主页列表不刷新的问题：AddHabitViewModel.save 写库后发 HabitDataChangedBus 通知列表页 refresh",
-  "publishedAt": "2026-10-20T15:31:00Z",
-  "size": 13723104
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261020_2346.apk",
+  "releaseNotes": "重画深蹲/俯卧撑/跳绳手绘图标：去掉原糊成一团的全身人形，改为一眼可辨的动作骨架（深蹲=坐空气椅折线、俯卧撑=斜身+地面+支撑臂、跳绳=跳跃人+脚下绳弧），24dp下清晰可辨",
+  "publishedAt": "2026-10-20T15:46:54Z",
+  "size": 13723064
 }
