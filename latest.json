@@ -1,8 +1,8 @@
 {
-  "versionName": "20261020.2206",
+  "versionName": "20261020.2331",
   "versionCode": 20261020,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261020_2206.apk",
-  "releaseNotes": "习惯图标库扩充：34→60 个，新增充电/洗漱/泡澡/蛋/吃药/称重/护眼/晒太阳/少玩手机/少糖/听书/背单词/打字/复盘/洗衣/记账/陪家人/收纳/做饭/外卖/感恩/表达/对话，及体操/健走/武术等运动细分",
-  "publishedAt": "2026-10-20T14:06:15Z",
-  "size": 13722892
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261020_2331.apk",
+  "releaseNotes": "习惯图标新增深蹲/俯卧撑/跳绳（手绘矢量）；修复编辑/新建习惯后退回主页列表不刷新的问题：AddHabitViewModel.save 写库后发 HabitDataChangedBus 通知列表页 refresh",
+  "publishedAt": "2026-10-20T15:31:00Z",
+  "size": 13723104
 }
