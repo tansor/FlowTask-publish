@@ -1,8 +1,8 @@
 {
-  "versionName": "20261020.2346",
-  "versionCode": 20261020,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261020_2346.apk",
-  "releaseNotes": "重画深蹲/俯卧撑/跳绳手绘图标：去掉原糊成一团的全身人形，改为一眼可辨的动作骨架（深蹲=坐空气椅折线、俯卧撑=斜身+地面+支撑臂、跳绳=跳跃人+脚下绳弧），24dp下清晰可辨",
-  "publishedAt": "2026-10-20T15:46:54Z",
-  "size": 13723064
+  "versionName": "20261021.0121",
+  "versionCode": 20261021,
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261021_0121.apk",
+  "releaseNotes": "移除深蹲/俯卧撑/跳绳三个手绘矢量图标（Material Icons 无精确对应），改为通过别名回退到现成图标：squat→健身(哑铃)、pushup→体操、jumprope→跑步，选择器不再显示这三个格",
+  "publishedAt": "2026-10-20T17:21:44Z",
+  "size": 13723020
 }
