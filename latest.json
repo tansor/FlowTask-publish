@@ -1,8 +1,8 @@
 {
-  "versionName": "20261019.2246",
-  "versionCode": 20261019,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261019_2246.apk",
-  "releaseNotes": "习惯详情页达标态去掉硬编码绿色：进度环/对钩/＋角标/「已完成」胶囊统一沿用习惯自身颜色(habitColor)，与主页卡片、数据卡、点阵图配色一致",
-  "publishedAt": "2026-10-19T14:46:24Z",
-  "size": 13720744
+  "versionName": "20261020.2206",
+  "versionCode": 20261020,
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261020_2206.apk",
+  "releaseNotes": "习惯图标库扩充：34→60 个，新增充电/洗漱/泡澡/蛋/吃药/称重/护眼/晒太阳/少玩手机/少糖/听书/背单词/打字/复盘/洗衣/记账/陪家人/收纳/做饭/外卖/感恩/表达/对话，及体操/健走/武术等运动细分",
+  "publishedAt": "2026-10-20T14:06:15Z",
+  "size": 13722892
 }
