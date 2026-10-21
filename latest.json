@@ -1,8 +1,8 @@
 {
-  "versionName": "20261021.0121",
+  "versionName": "20261021.1309",
   "versionCode": 20261021,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261021_0121.apk",
-  "releaseNotes": "移除深蹲/俯卧撑/跳绳三个手绘矢量图标（Material Icons 无精确对应），改为通过别名回退到现成图标：squat→健身(哑铃)、pushup→体操、jumprope→跑步，选择器不再显示这三个格",
-  "publishedAt": "2026-10-20T17:21:44Z",
-  "size": 13723020
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261021_1309.apk",
+  "releaseNotes": "修复更新逻辑：下载前校验本地缓存（按版本时间戳文件名+latest.json精确字节数匹配），云端同版本已下过则直接复用安装不再重新下载；修复手滑点掉安装弹窗后再点检查更新/重试仍会重新下的问题",
+  "publishedAt": "2026-10-21T05:09:16Z",
+  "size": 13723664
 }
