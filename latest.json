@@ -1,8 +1,8 @@
 {
-  "versionName": "20261021.1309",
+  "versionName": "20261021.1605",
   "versionCode": 20261021,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261021_1309.apk",
-  "releaseNotes": "修复更新逻辑：下载前校验本地缓存（按版本时间戳文件名+latest.json精确字节数匹配），云端同版本已下过则直接复用安装不再重新下载；修复手滑点掉安装弹窗后再点检查更新/重试仍会重新下的问题",
-  "publishedAt": "2026-10-21T05:09:16Z",
-  "size": 13723664
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261021_1605.apk",
+  "releaseNotes": "修复详情页删除习惯后退回主页列表不刷新：HabitDetailViewModel.deleteHabit 写库+重排闹钟后补发 HabitDataChangedBus 通知，主页收到即 refresh（与编辑/新建保存逻辑一致）",
+  "publishedAt": "2026-10-21T08:05:22Z",
+  "size": 13722832
 }
