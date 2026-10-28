@@ -1,8 +1,8 @@
 {
-  "versionName": "20261028.1757",
+  "versionName": "20261028.1814",
   "versionCode": 20261028,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261028_1757.apk",
-  "releaseNotes": "修复账单导入预览崩溃（分类选择与列表分两份状态，首帧下标越界）；导入入口改放顶栏左侧并换成上传图标，月份切换改紧凑按钮不再挤压标题",
-  "publishedAt": "2026-10-28T09:57:11Z",
-  "size": 13875852
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261028_1814.apk",
+  "releaseNotes": "账单导入支持记住商户归类：预览页改动某条分类时，自动检测同一商户的其余条目并询问是否一并修改；确认后把「商户→分类」记入本地规则，下次导入直接自动归类。分类管理页新增「导入归类规则」入口，可查看与删除已记住的规则",
+  "publishedAt": "2026-10-28T10:14:10Z",
+  "size": 13889140
 }
