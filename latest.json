@@ -1,8 +1,8 @@
 {
-  "versionName": "20261028.2350",
-  "versionCode": 20261028,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261028_2350.apk",
-  "releaseNotes": "笔记 Markdown 支持表格：竖线表格自动识别成带边框的表格（表头加粗带底色、按 :--: 对齐、列宽自适应、超宽可横向滑动并提示），表格单元格内支持粗体/链接/<br> 换行；编辑工具栏新增「插入表格」按钮（2 列 2 行模板，直接选中首格改名）",
-  "publishedAt": "2026-10-28T15:50:06Z",
-  "size": 13929960
+  "versionName": "20261029.0106",
+  "versionCode": 20261029,
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261029_0106.apk",
+  "releaseNotes": "修复微信账单时间解析：Excel 日期序列号与斜杠格式此前会落到 1899/1970 错误年份，导致记录既不显示、又让重导被判成重复显示导入0条；现已正确解析并新增「重导自动修复」——库内同订单号但时间异常的历史记录，重导时按正确时间覆盖（预览显示将修复N条、确认后提示已修复）",
+  "publishedAt": "2026-10-28T17:06:20Z",
+  "size": 13933932
 }
