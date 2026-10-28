@@ -1,8 +1,8 @@
 {
-  "versionName": "20261028.1016",
+  "versionName": "20261028.1247",
   "versionCode": 20261028,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261028_1016.apk",
-  "releaseNotes": "记账模块收口：支持点整行编辑已有记录、删除二次确认弹窗、跨月查看（顶栏左右箭头切月，汇总/分类环形图/流水随选中月份联动，禁止看未来月）",
-  "publishedAt": "2026-10-28T02:16:23Z",
-  "size": 13784392
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261028_1247.apk",
+  "releaseNotes": "记账页 UI 对齐其他页面：顶栏改居中标题+右侧月份切换、FAB 改用标准 Scaffold 位置；总览（汇总+环形图）固定、仅流水滚动；弹窗分类网格加高防裁切；日期/备注框统一 46dp 等高；环形图改细环平头分段",
+  "publishedAt": "2026-10-28T04:47:38Z",
+  "size": 13784184
 }
