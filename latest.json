@@ -1,8 +1,8 @@
 {
-  "versionName": "20261028.1855",
+  "versionName": "20261028.1911",
   "versionCode": 20261028,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261028_1855.apk",
-  "releaseNotes": "修复账单导入批量改分类后崩溃：根因为 kotlinx.serialization 在 release 混淆下生成的序列化器类被 R8 内联消除，运行时找不到 LedgerImportRule 序列化器；改为 org.json 手写编解码（对混淆免疫），同时补 proguard 对 @Serializable 类的保留规则",
-  "publishedAt": "2026-10-28T10:55:29Z",
-  "size": 13889684
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261028_1911.apk",
+  "releaseNotes": "修复新建记账类目崩溃：LedgerCategoryPrefs 仍用 kotlinx.serialization 的 serializer<List<LedgerCategory>>()，release 混淆下序列化器类被 R8 内联消除导致找不到；改用 org.json 手写编解码，与导入规则存储保持一致，彻底规避混淆问题",
+  "publishedAt": "2026-10-28T11:11:24Z",
+  "size": 13889128
 }
