@@ -1,8 +1,8 @@
 {
-  "versionName": "20261028.1639",
+  "versionName": "20261028.1742",
   "versionCode": 20261028,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261028_1639.apk",
-  "releaseNotes": "记账分类改 Material Outlined 图标；弹窗分类网格改自然高度排布消除裁切、移除冗余文案；新增可编辑记账分类（DataStore 持久化）：设置-记账分类管理页支持支出/收入双Tab增删改、图标+配色选择、重置默认；记账弹窗/流水/环形图均随动态分类联动",
-  "publishedAt": "2026-10-28T08:39:03Z",
-  "size": 13843964
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261028_1742.apk",
+  "releaseNotes": "记账支持微信/支付宝账单导入：记账页顶栏新增导入入口；自写轻量解析（微信xlsx用ZipInputStream+XmlPull风格正则，无POI依赖；支付宝csv用GBK引号感知解析）；自动归类（支付宝用自带分类、微信用关键词），导入前预览可逐条改分类；按(平台,订单号)去重跳过重复；默认跳过退款/交易关闭/不计收支；数据库v19→v20新增source与externalOrderNo列",
+  "publishedAt": "2026-10-28T09:42:28Z",
+  "size": 13876284
 }
