@@ -1,8 +1,8 @@
 {
-  "versionName": "20261028.2059",
+  "versionName": "20261028.2147",
   "versionCode": 20261028,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261028_2059.apk",
-  "releaseNotes": "记账明细四项优化：①支出分类占比右侧由仅百分比改为「金额+百分比」；②每日日期行右侧靠右显示当日收入/支出（灰色小字）；③明细右上角加「按日/金额」分段切换排序；④占比卡改为日历式可折叠——上拖收起（仅留标题条）、下拖展开、点击标题也可切换，AnimatedVisibility 平滑动画",
-  "publishedAt": "2026-10-28T12:59:29Z",
-  "size": 13903016
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261028_2147.apk",
+  "releaseNotes": "修好退款与部分退款：退款不再丢弃也不算成收入，而是冲减原支出（净额=金额-已退），退款自动归属回原订单月份。支付宝按订单号「原单_退款单」精确匹配，微信按商户+金额配对；交易关闭/预授权解冻这类没真正扣钱的才跳过。实测支付宝 9 月支出由虚高的 28,170.41 修正为官方的 22,347.19。明细行显示净额与「已退 ¥xx」，全额退款显示划线+已全额退款；导入预览显示扣减笔数与金额",
+  "publishedAt": "2026-10-28T13:47:32Z",
+  "size": 13912644
 }
