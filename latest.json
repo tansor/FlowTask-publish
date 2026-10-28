@@ -1,8 +1,8 @@
 {
-  "versionName": "20261028.1742",
+  "versionName": "20261028.1757",
   "versionCode": 20261028,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261028_1742.apk",
-  "releaseNotes": "记账支持微信/支付宝账单导入：记账页顶栏新增导入入口；自写轻量解析（微信xlsx用ZipInputStream+XmlPull风格正则，无POI依赖；支付宝csv用GBK引号感知解析）；自动归类（支付宝用自带分类、微信用关键词），导入前预览可逐条改分类；按(平台,订单号)去重跳过重复；默认跳过退款/交易关闭/不计收支；数据库v19→v20新增source与externalOrderNo列",
-  "publishedAt": "2026-10-28T09:42:28Z",
-  "size": 13876284
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261028_1757.apk",
+  "releaseNotes": "修复账单导入预览崩溃（分类选择与列表分两份状态，首帧下标越界）；导入入口改放顶栏左侧并换成上传图标，月份切换改紧凑按钮不再挤压标题",
+  "publishedAt": "2026-10-28T09:57:11Z",
+  "size": 13875852
 }
