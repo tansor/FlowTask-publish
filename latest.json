@@ -1,8 +1,8 @@
 {
-  "versionName": "20261028.1915",
+  "versionName": "20261028.2059",
   "versionCode": 20261028,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261028_1915.apk",
-  "releaseNotes": "新增分类崩溃修复补强：LedgerCategoryPrefs 解码兼容旧版 kotlinx.serialization 长键格式，避免升级后已存的自定义分类被静默丢弃",
-  "publishedAt": "2026-10-28T11:15:45Z",
-  "size": 13888840
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261028_2059.apk",
+  "releaseNotes": "记账明细四项优化：①支出分类占比右侧由仅百分比改为「金额+百分比」；②每日日期行右侧靠右显示当日收入/支出（灰色小字）；③明细右上角加「按日/金额」分段切换排序；④占比卡改为日历式可折叠——上拖收起（仅留标题条）、下拖展开、点击标题也可切换，AnimatedVisibility 平滑动画",
+  "publishedAt": "2026-10-28T12:59:29Z",
+  "size": 13903016
 }
