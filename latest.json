@@ -1,8 +1,8 @@
 {
-  "versionName": "20261028.2209",
+  "versionName": "20261028.2350",
   "versionCode": 20261028,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261028_2209.apk",
-  "releaseNotes": "记账支持具体时间（导入自带时分，手填可选可清空，列表显示 09:30）；编辑详情备注可一键扩大成多行；排序改为居右小字「排序：日期 | 金额」，当前项高亮；修复环形图描边溢出被裁掉一角（左侧被切平）；收起占比卡不再重复显示支出金额，圆心改显示笔数；新增多选批量删除（长按进入，全选/删除）",
-  "publishedAt": "2026-10-28T14:09:08Z",
-  "size": 13923568
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261028_2350.apk",
+  "releaseNotes": "笔记 Markdown 支持表格：竖线表格自动识别成带边框的表格（表头加粗带底色、按 :--: 对齐、列宽自适应、超宽可横向滑动并提示），表格单元格内支持粗体/链接/<br> 换行；编辑工具栏新增「插入表格」按钮（2 列 2 行模板，直接选中首格改名）",
+  "publishedAt": "2026-10-28T15:50:06Z",
+  "size": 13929960
 }
