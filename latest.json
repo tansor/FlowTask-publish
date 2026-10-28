@@ -1,8 +1,8 @@
 {
-  "versionName": "20261028.1814",
+  "versionName": "20261028.1855",
   "versionCode": 20261028,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261028_1814.apk",
-  "releaseNotes": "账单导入支持记住商户归类：预览页改动某条分类时，自动检测同一商户的其余条目并询问是否一并修改；确认后把「商户→分类」记入本地规则，下次导入直接自动归类。分类管理页新增「导入归类规则」入口，可查看与删除已记住的规则",
-  "publishedAt": "2026-10-28T10:14:10Z",
-  "size": 13889140
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261028_1855.apk",
+  "releaseNotes": "修复账单导入批量改分类后崩溃：根因为 kotlinx.serialization 在 release 混淆下生成的序列化器类被 R8 内联消除，运行时找不到 LedgerImportRule 序列化器；改为 org.json 手写编解码（对混淆免疫），同时补 proguard 对 @Serializable 类的保留规则",
+  "publishedAt": "2026-10-28T10:55:29Z",
+  "size": 13889684
 }
