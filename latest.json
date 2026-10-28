@@ -1,8 +1,8 @@
 {
-  "versionName": "20261021.1605",
-  "versionCode": 20261021,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261021_1605.apk",
-  "releaseNotes": "修复详情页删除习惯后退回主页列表不刷新：HabitDetailViewModel.deleteHabit 写库+重排闹钟后补发 HabitDataChangedBus 通知，主页收到即 refresh（与编辑/新建保存逻辑一致）",
-  "publishedAt": "2026-10-21T08:05:22Z",
-  "size": 13722832
+  "versionName": "20261028.0908",
+  "versionCode": 20261028,
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261028_0908.apk",
+  "releaseNotes": "新增记账模块（本月汇总/分类占比环形图/流水/记一笔系统键盘）与底部导航可配置（4-6个标签，设置固定常驻）",
+  "publishedAt": "2026-10-28T01:08:59Z",
+  "size": 13779816
 }
