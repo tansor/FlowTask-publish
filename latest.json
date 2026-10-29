@@ -1,8 +1,8 @@
 {
-  "versionName": "20261029.0106",
+  "versionName": "20261029.0908",
   "versionCode": 20261029,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261029_0106.apk",
-  "releaseNotes": "修复微信账单时间解析：Excel 日期序列号与斜杠格式此前会落到 1899/1970 错误年份，导致记录既不显示、又让重导被判成重复显示导入0条；现已正确解析并新增「重导自动修复」——库内同订单号但时间异常的历史记录，重导时按正确时间覆盖（预览显示将修复N条、确认后提示已修复）",
-  "publishedAt": "2026-10-28T17:06:20Z",
-  "size": 13933932
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261029_0908.apk",
+  "releaseNotes": "记账支出分类占比卡支持点击筛选：点具体分类即高亮该项、其余条目与圆环对应段联动变灰，下方流水只显示该分类；再点同一分类取消筛选，点其他分类切换到该类目；列表头显示「筛选：xx ✕」一键取消；切换月份/排序自动清筛选。需 CategorySlice 增加 key 字段",
+  "publishedAt": "2026-10-29T01:08:08Z",
+  "size": 13938228
 }
