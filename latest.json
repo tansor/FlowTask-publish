@@ -1,8 +1,8 @@
 {
-  "versionName": "20261029.0908",
-  "versionCode": 20261029,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261029_0908.apk",
-  "releaseNotes": "记账支出分类占比卡支持点击筛选：点具体分类即高亮该项、其余条目与圆环对应段联动变灰，下方流水只显示该分类；再点同一分类取消筛选，点其他分类切换到该类目；列表头显示「筛选：xx ✕」一键取消；切换月份/排序自动清筛选。需 CategorySlice 增加 key 字段",
-  "publishedAt": "2026-10-29T01:08:08Z",
-  "size": 13938228
+  "versionName": "20261030.0037",
+  "versionCode": 20261030,
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261030_0037.apk",
+  "releaseNotes": "习惯跨天自动刷新根治（方案B）：新增全局 TodayFlow 单一日期数据源，接入主页/详情/统计三页；监听系统日期·时间·时区广播 + 界面回前台探测，跨0点/改系统时间/切时区均自动重算周期次数·连续记录·趋势点阵·热力图，回前台兜底补刷。",
+  "publishedAt": "2026-10-29T16:37:26Z",
+  "size": 13942764
 }
