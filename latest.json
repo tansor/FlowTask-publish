@@ -1,8 +1,8 @@
 {
-  "versionName": "20261030.0037",
+  "versionName": "20261030.1001",
   "versionCode": 20261030,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261030_0037.apk",
-  "releaseNotes": "习惯跨天自动刷新根治（方案B）：新增全局 TodayFlow 单一日期数据源，接入主页/详情/统计三页；监听系统日期·时间·时区广播 + 界面回前台探测，跨0点/改系统时间/切时区均自动重算周期次数·连续记录·趋势点阵·热力图，回前台兜底补刷。",
-  "publishedAt": "2026-10-29T16:37:26Z",
-  "size": 13942764
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261030_1001.apk",
+  "releaseNotes": "设置入口归拢（A+B+C）：A 设置页拆成「模块设置」主页 + 任务/通用二级子页（习惯·记账复用既有子页路由），不再平铺混排；B 习惯页顶栏移除与设置页重复的⚙显示按钮，仅留统计+分组；C 任务页顶栏移除通知按钮（含红点）及对应参数，提醒设置统一走设置页。记账页未改动。",
+  "publishedAt": "2026-10-30T02:01:15Z",
+  "size": 13945752
 }
