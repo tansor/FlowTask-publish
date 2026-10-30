@@ -1,8 +1,8 @@
 {
-  "versionName": "20261030.1614",
+  "versionName": "20261030.1625",
   "versionCode": 20261030,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261030_1614.apk",
-  "releaseNotes": "设置页改回一屏平铺（修正上版过度收拢）：去掉「模块设置→二级子页」的文件夹式结构，恢复为单页滚动、所有设置项直接可见可点；用「任务 / 习惯 / 记账 / 外观 / 通知 / 权限 / 数据管理 / 更新 / 关于」分组标题理清层次。保留习惯页去⚙显示、任务页去通知按钮的去重改动，记账页不动。",
-  "publishedAt": "2026-10-30T08:14:05Z",
-  "size": 13941520
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261030_1625.apk",
+  "releaseNotes": "抽屉目录项跨页跳转：非任务页划开侧边栏点击任一目录项（首页/今天/最近七天/收集箱/自建列表），自动跳到任务页并按该目录过滤；已在任务页则就地刷新，不重复压栈。",
+  "publishedAt": "2026-10-30T08:25:50Z",
+  "size": 13942128
 }
