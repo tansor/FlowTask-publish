@@ -1,8 +1,8 @@
 {
-  "versionName": "20261030.1625",
-  "versionCode": 20261030,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261030_1625.apk",
-  "releaseNotes": "抽屉目录项跨页跳转：非任务页划开侧边栏点击任一目录项（首页/今天/最近七天/收集箱/自建列表），自动跳到任务页并按该目录过滤；已在任务页则就地刷新，不重复压栈。",
-  "publishedAt": "2026-10-30T08:25:50Z",
-  "size": 13942128
+  "versionName": "20261031.1121",
+  "versionCode": 20261031,
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261031_1121.apk",
+  "releaseNotes": "记账排序不再清筛选：将排序与月份的 LaunchedEffect 拆开，切换日期/金额排序只重置收起态与多选、回到顶部，保留已选分类筛选；切换月份仍清筛选（避免切到无该分类的月份显示空列表）。",
+  "publishedAt": "2026-10-31T03:21:52Z",
+  "size": 13942560
 }
