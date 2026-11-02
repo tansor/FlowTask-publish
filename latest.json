@@ -1,8 +1,8 @@
 {
-  "versionName": "20261102.2105",
-  "versionCode": 20261102,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261102_2105.apk",
-  "releaseNotes": "Web端增强：1)组内排序复刻手机端各视图ORDER BY(首页按日期、今天/最近七天按优先级+时间、目录按优先级+日期、已完成按完成时间、笔记倒序)；2)批量多选(改分类/改日期/删除/全选)；3)键盘快捷键(j/k或上下移动光标、Enter打开、x多选切换、/搜索、Esc逐层关闭)；4)导出JSON备份；5)内嵌qrcode-generator实现局域网地址二维码(扫码直连)",
-  "publishedAt": "2026-11-02T13:05:47Z",
-  "size": 14024573
+  "versionName": "20261103.0632",
+  "versionCode": 20261103,
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261103_0632.apk",
+  "releaseNotes": "二维码移至手机端局域网页：移除Web端二维码弹窗与内嵌库，改为手机局域网页运行态展示访问地址二维码（custom-qr-generator），笔记本扫码直连",
+  "publishedAt": "2026-11-02T22:32:55Z",
+  "size": 14336501
 }
