@@ -1,8 +1,8 @@
 {
-  "versionName": "20261102.1713",
+  "versionName": "20261102.1929",
   "versionCode": 20261102,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261102_1713.apk",
-  "releaseNotes": "Web端修复：1)创建/保存均返回unauthorized 根因是POST/PUT的Authorization被Content-Type整体覆盖，已修正；2)左侧品牌栏/中栏顶部条/右栏详情头统一为58px等高并放大；3)Markdown新增GFM表格渲染(含列对齐)与内容区撑满剩余高度",
-  "publishedAt": "2026-11-02T09:13:00Z",
-  "size": 14009809
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261102_1929.apk",
+  "releaseNotes": "Web端修复POST/PUT读取JSON正文：改用inputStream按content-length读取(原parseBody对非表单JSON不会写入postData导致正文为空、保存报End of input)",
+  "publishedAt": "2026-11-02T11:29:44Z",
+  "size": 14010049
 }
