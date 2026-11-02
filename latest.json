@@ -1,8 +1,8 @@
 {
-  "versionName": "20261102.1434",
+  "versionName": "20261102.1626",
   "versionCode": 20261102,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261102_1434.apk",
-  "releaseNotes": "Web端四处修正：修复JS日期比较bug使首页/今天/最近7天/收集箱正常显示；右栏改为胶囊+底部浮层范式(对齐手机端)，笔记只显标题/列表/内容；右栏默认加宽并支持左右分割条拖动记忆宽度",
-  "publishedAt": "2026-11-02T06:34:11Z",
-  "size": 14004469
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261102_1626.apk",
+  "releaseNotes": "Web端修正：笔记补全日期与优先级(对齐手机端保留笔记日期/优先级、清时间/重复/提醒)；内容区改为撑满右栏剩余高度，不再截断为3行",
+  "publishedAt": "2026-11-02T08:26:30Z",
+  "size": 14005025
 }
