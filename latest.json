@@ -1,8 +1,8 @@
 {
-  "versionName": "20261102.1929",
+  "versionName": "20261102.1947",
   "versionCode": 20261102,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261102_1929.apk",
-  "releaseNotes": "Web端修复POST/PUT读取JSON正文：改用inputStream按content-length读取(原parseBody对非表单JSON不会写入postData导致正文为空、保存报End of input)",
-  "publishedAt": "2026-11-02T11:29:44Z",
-  "size": 14010049
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261102_1947.apk",
+  "releaseNotes": "Web端新建默认目录对齐手机端：在用户目录/子目录下新建默认归属当前目录，首页/今天/最近七天/收集箱/归档默认收集箱；新建后停在当前视图不跳全部",
+  "publishedAt": "2026-11-02T11:47:23Z",
+  "size": 14010185
 }
