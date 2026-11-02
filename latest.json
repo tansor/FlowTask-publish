@@ -1,8 +1,8 @@
 {
-  "versionName": "20261031.1121",
-  "versionCode": 20261031,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261031_1121.apk",
-  "releaseNotes": "记账排序不再清筛选：将排序与月份的 LaunchedEffect 拆开，切换日期/金额排序只重置收起态与多选、回到顶部，保留已选分类筛选；切换月份仍清筛选（避免切到无该分类的月份显示空列表）。",
-  "publishedAt": "2026-10-31T03:21:52Z",
-  "size": 13942560
+  "versionName": "20261102.1132",
+  "versionCode": 20261102,
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261102_1132.apk",
+  "releaseNotes": "局域网访问改为手动开关：开启后以 specialUse 前台服务常驻，前后台均可访问；关闭即停",
+  "publishedAt": "2026-11-02T03:32:07Z",
+  "size": 13991757
 }
