@@ -1,8 +1,8 @@
 {
-  "versionName": "20261102.1214",
+  "versionName": "20261102.1434",
   "versionCode": 20261102,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261102_1214.apk",
-  "releaseNotes": "局域网 Web 端重写为三栏主从：左目录树（含智能视图/计数）、中8分区任务列表、右全字段表单（新建编辑复用/即时保存/含重复与提醒）；后端改用全量查询修复看不到所有任务，新增GET /api/tasks/{id}与GET /api/lists",
-  "publishedAt": "2026-11-02T04:14:54Z",
-  "size": 14001897
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261102_1434.apk",
+  "releaseNotes": "Web端四处修正：修复JS日期比较bug使首页/今天/最近7天/收集箱正常显示；右栏改为胶囊+底部浮层范式(对齐手机端)，笔记只显标题/列表/内容；右栏默认加宽并支持左右分割条拖动记忆宽度",
+  "publishedAt": "2026-11-02T06:34:11Z",
+  "size": 14004469
 }
