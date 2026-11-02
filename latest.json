@@ -1,8 +1,8 @@
 {
-  "versionName": "20261102.1635",
+  "versionName": "20261102.1656",
   "versionCode": 20261102,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261102_1635.apk",
-  "releaseNotes": "Web端交互修正：备注改为右栏内联直接编辑(textarea撑满剩余高度，实时保存不丢焦点)；浮窗点击灰色背景可取消；访问码改为独立全屏登录界面，登录后仅保留退出登录按钮",
-  "publishedAt": "2026-11-02T08:35:38Z",
-  "size": 14005881
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261102_1656.apk",
+  "releaseNotes": "Web端：内容区支持Markdown渲染(默认渲染态/点编辑进编辑态/预览回渲染)；修复新建失败(NanoHTTPD改用parseBody读body)并加全局错误提示；顶部栏控件统一34px等高对齐",
+  "publishedAt": "2026-11-02T08:56:29Z",
+  "size": 14008777
 }
