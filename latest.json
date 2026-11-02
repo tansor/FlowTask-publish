@@ -1,8 +1,8 @@
 {
-  "versionName": "20261102.1656",
+  "versionName": "20261102.1713",
   "versionCode": 20261102,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261102_1656.apk",
-  "releaseNotes": "Web端：内容区支持Markdown渲染(默认渲染态/点编辑进编辑态/预览回渲染)；修复新建失败(NanoHTTPD改用parseBody读body)并加全局错误提示；顶部栏控件统一34px等高对齐",
-  "publishedAt": "2026-11-02T08:56:29Z",
-  "size": 14008777
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261102_1713.apk",
+  "releaseNotes": "Web端修复：1)创建/保存均返回unauthorized 根因是POST/PUT的Authorization被Content-Type整体覆盖，已修正；2)左侧品牌栏/中栏顶部条/右栏详情头统一为58px等高并放大；3)Markdown新增GFM表格渲染(含列对齐)与内容区撑满剩余高度",
+  "publishedAt": "2026-11-02T09:13:00Z",
+  "size": 14009809
 }
