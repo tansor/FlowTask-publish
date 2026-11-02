@@ -1,8 +1,8 @@
 {
-  "versionName": "20261102.1626",
+  "versionName": "20261102.1635",
   "versionCode": 20261102,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261102_1626.apk",
-  "releaseNotes": "Web端修正：笔记补全日期与优先级(对齐手机端保留笔记日期/优先级、清时间/重复/提醒)；内容区改为撑满右栏剩余高度，不再截断为3行",
-  "publishedAt": "2026-11-02T08:26:30Z",
-  "size": 14005025
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261102_1635.apk",
+  "releaseNotes": "Web端交互修正：备注改为右栏内联直接编辑(textarea撑满剩余高度，实时保存不丢焦点)；浮窗点击灰色背景可取消；访问码改为独立全屏登录界面，登录后仅保留退出登录按钮",
+  "publishedAt": "2026-11-02T08:35:38Z",
+  "size": 14005881
 }
