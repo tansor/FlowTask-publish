@@ -1,8 +1,8 @@
 {
-  "versionName": "20261102.1947",
+  "versionName": "20261102.2003",
   "versionCode": 20261102,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261102_1947.apk",
-  "releaseNotes": "Web端新建默认目录对齐手机端：在用户目录/子目录下新建默认归属当前目录，首页/今天/最近七天/收集箱/归档默认收集箱；新建后停在当前视图不跳全部",
-  "publishedAt": "2026-11-02T11:47:23Z",
-  "size": 14010185
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261102_2003.apk",
+  "releaseNotes": "Web端列表对齐手机端：1)笔记区按日期倒序(有日期优先、无日期按编辑时间倒序)；2)笔记标题去掉金色、左侧改用note图标(取优先级色)；3)勾选框改为彩色优先级方块(替代单独优先级标签)，右侧两行显示日期/时间/重复/提醒/目录路径；4)新增「新建笔记」按钮；5)选具体时间自动补准时提醒(offset0)并自动补今天日期",
+  "publishedAt": "2026-11-02T12:03:42Z",
+  "size": 14011953
 }
