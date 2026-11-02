@@ -1,8 +1,8 @@
 {
-  "versionName": "20261102.2003",
+  "versionName": "20261102.2048",
   "versionCode": 20261102,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261102_2003.apk",
-  "releaseNotes": "Web端列表对齐手机端：1)笔记区按日期倒序(有日期优先、无日期按编辑时间倒序)；2)笔记标题去掉金色、左侧改用note图标(取优先级色)；3)勾选框改为彩色优先级方块(替代单独优先级标签)，右侧两行显示日期/时间/重复/提醒/目录路径；4)新增「新建笔记」按钮；5)选具体时间自动补准时提醒(offset0)并自动补今天日期",
-  "publishedAt": "2026-11-02T12:03:42Z",
-  "size": 14011953
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261102_2048.apk",
+  "releaseNotes": "修复Web端编辑标题时拼音(IME)合成被自动保存打断：1)标题输入加compositionstart/end守卫，合成中不调度保存、结束才保存；2)保存标题/完成/优先级时不再整页重载(原reloadData→renderAll→renderDetail会替换标题输入框导致合成上下文丢失)，改为就地合并进本地列表并只刷新中间列表，保留输入框与焦点；3)备注输入同样加合成守卫避免半截拼音入库",
+  "publishedAt": "2026-11-02T12:48:49Z",
+  "size": 14012693
 }
