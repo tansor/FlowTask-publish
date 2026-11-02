@@ -1,8 +1,8 @@
 {
-  "versionName": "20261102.2048",
+  "versionName": "20261102.2105",
   "versionCode": 20261102,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261102_2048.apk",
-  "releaseNotes": "修复Web端编辑标题时拼音(IME)合成被自动保存打断：1)标题输入加compositionstart/end守卫，合成中不调度保存、结束才保存；2)保存标题/完成/优先级时不再整页重载(原reloadData→renderAll→renderDetail会替换标题输入框导致合成上下文丢失)，改为就地合并进本地列表并只刷新中间列表，保留输入框与焦点；3)备注输入同样加合成守卫避免半截拼音入库",
-  "publishedAt": "2026-11-02T12:48:49Z",
-  "size": 14012693
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261102_2105.apk",
+  "releaseNotes": "Web端增强：1)组内排序复刻手机端各视图ORDER BY(首页按日期、今天/最近七天按优先级+时间、目录按优先级+日期、已完成按完成时间、笔记倒序)；2)批量多选(改分类/改日期/删除/全选)；3)键盘快捷键(j/k或上下移动光标、Enter打开、x多选切换、/搜索、Esc逐层关闭)；4)导出JSON备份；5)内嵌qrcode-generator实现局域网地址二维码(扫码直连)",
+  "publishedAt": "2026-11-02T13:05:47Z",
+  "size": 14024573
 }
