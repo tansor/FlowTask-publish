@@ -1,8 +1,8 @@
 {
-  "versionName": "20261103.0949",
+  "versionName": "20261103.1145",
   "versionCode": 20261103,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261103_0949.apk",
-  "releaseNotes": "归档箱完整上线：任务可手动归档/恢复/永久删除（手机详情页+归档列表页，Web 端详情与归档视图行内操作）；设置页新增「完成后自动归档」与「归档保留」策略，每日 03:00 自动执行；数据库升级 v23 增加归档时间列",
-  "publishedAt": "2026-11-03T01:49:08Z",
-  "size": 14375773
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261103_1145.apk",
+  "releaseNotes": "设置页归档入口调整：移除单独的「归档」标题与「已归档任务」入口（已在抽屉查看），两条策略（完成后自动归档/归档保留）并入「任务」分组；新增「立即执行一次（测试）」可不等凌晨即按当前策略跑一遍自动归档+清理并反馈条数",
+  "publishedAt": "2026-11-03T03:45:11Z",
+  "size": 14380817
 }
