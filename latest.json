@@ -1,8 +1,8 @@
 {
-  "versionName": "20261103.0632",
+  "versionName": "20261103.0949",
   "versionCode": 20261103,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261103_0632.apk",
-  "releaseNotes": "二维码移至手机端局域网页：移除Web端二维码弹窗与内嵌库，改为手机局域网页运行态展示访问地址二维码（custom-qr-generator），笔记本扫码直连",
-  "publishedAt": "2026-11-02T22:32:55Z",
-  "size": 14336501
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261103_0949.apk",
+  "releaseNotes": "归档箱完整上线：任务可手动归档/恢复/永久删除（手机详情页+归档列表页，Web 端详情与归档视图行内操作）；设置页新增「完成后自动归档」与「归档保留」策略，每日 03:00 自动执行；数据库升级 v23 增加归档时间列",
+  "publishedAt": "2026-11-03T01:49:08Z",
+  "size": 14375773
 }
