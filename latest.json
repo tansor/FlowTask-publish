@@ -1,8 +1,8 @@
 {
-  "versionName": "20261104.1935",
-  "versionCode": 20261104,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261104_1935.apk",
-  "releaseNotes": "自动归档交互优化：移除设置页「立即执行一次」按钮；改为修改「完成后自动归档」档位时自动检测——有现成符合归档条件的活跃任务则弹窗提示每日03:00处理并询问是否立即处理；档位放宽（如7→30天）时弹窗询问是否把按原规则收进已归档、现不符合新规则的任务移回任务列表。数据层新增待归档计数与区间恢复查询",
-  "publishedAt": "2026-11-04T11:35:05Z",
-  "size": 14384541
+  "versionName": "20261108.2354",
+  "versionCode": 20261108,
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261108_2354.apk",
+  "releaseNotes": "修复 Markdown 回车续行误判：以数字开头的普通行（如「101 69 91 健太郎左手 16:13」）不再被当成有序列表自动补序号；续行判定统一复用渲染侧 RE_ORDERED（要求「数字+.+空白」），消除编辑态与渲染态规则漂移；新增 8 个回归单测",
+  "publishedAt": "2026-11-08T15:54:25Z",
+  "size": 14384633
 }
