@@ -1,8 +1,8 @@
 {
-  "versionName": "20261108.2354",
-  "versionCode": 20261108,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261108_2354.apk",
-  "releaseNotes": "修复 Markdown 回车续行误判：以数字开头的普通行（如「101 69 91 健太郎左手 16:13」）不再被当成有序列表自动补序号；续行判定统一复用渲染侧 RE_ORDERED（要求「数字+.+空白」），消除编辑态与渲染态规则漂移；新增 8 个回归单测",
-  "publishedAt": "2026-11-08T15:54:25Z",
-  "size": 14384633
+  "versionName": "20261116.0935",
+  "versionCode": 20261116,
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261116_0935.apk",
+  "releaseNotes": "新增两套安卓桌面小插件：方案一 2×2 今日待办计数卡（待办数/已完成/进度条，整卡点击打开）；方案二 4×3 今日清单（已过期与今天任务、优先级色条、时间标签、点行跳详情、右上+直接新建，可拉伸自动增行）。设置页「外观」新增「小插件快捷完成」开关，开启后清单行首圆圈可桌面直接勾选/取消完成。刷新由数据变更主动推送（150ms 合并节流）+ 跨天/时间/时区/开机广播兜底，深色跟随应用主题；仅声明 home_screen 不进锁屏",
+  "publishedAt": "2026-11-16T01:35:23Z",
+  "size": 14420261
 }
