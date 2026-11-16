@@ -1,8 +1,8 @@
 {
-  "versionName": "20261116.1013",
+  "versionName": "20261116.1823",
   "versionCode": 20261116,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261116_1013.apk",
-  "releaseNotes": "修复 4×3 今日清单小插件在华为等国产 ROM 桌面报「载入窗口小部件时出现问题」：根因是 RemoteViews.addView 动态插行在这些桌面上 inflate 失败。改为布局里预置 5 行任务行，Provider 只做填值与显隐，彻底不用 addView；每行的点击/快捷完成 PendingIntent 挂在预置 id 上，兼容性与点击可靠性同步提升",
-  "publishedAt": "2026-11-16T02:13:04Z",
-  "size": 14422461
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261116_1823.apk",
+  "releaseNotes": "新增小插件诊断日志：在 Provider 构建完 RemoteViews 后用 apply() 在本地复现桌面 inflate 过程，把数据快照、每步结果与异常堆栈写入 flowtask_widget.log（App 专属目录 + logcat）。设置页「关于」新增「小插件诊断」入口，可直接查看日志并可导出到 Download/flowtask_widget.log，用于定位桌面「载入窗口小部件时出现问题」的真实原因",
+  "publishedAt": "2026-11-16T10:23:49Z",
+  "size": 14427237
 }
