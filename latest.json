@@ -1,8 +1,8 @@
 {
-  "versionName": "20261116.1835",
+  "versionName": "20261116.1852",
   "versionCode": 20261116,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261116_1835.apk",
-  "releaseNotes": "修复4×3清单小插件加载失败：根因是优先级色条用了RemoteViews不允许inflate的裸View，改为TextView",
-  "publishedAt": "2026-11-16T10:35:31Z",
-  "size": 14427233
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261116_1852.apk",
+  "releaseNotes": "清单小插件自适应高度：行高按卡片高度均分填满消除底部空白，字号按高度分档放大，5×3可显示6行",
+  "publishedAt": "2026-11-16T10:52:33Z",
+  "size": 14427477
 }
