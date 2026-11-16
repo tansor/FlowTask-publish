@@ -1,8 +1,8 @@
 {
-  "versionName": "20261116.0940",
+  "versionName": "20261116.1013",
   "versionCode": 20261116,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261116_0940.apk",
-  "releaseNotes": "补齐：切换深色/浅色模式时立即刷新桌面小插件配色，避免 widget 停留在旧主题直到下次任务变更",
-  "publishedAt": "2026-11-16T01:40:44Z",
-  "size": 14419965
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261116_1013.apk",
+  "releaseNotes": "修复 4×3 今日清单小插件在华为等国产 ROM 桌面报「载入窗口小部件时出现问题」：根因是 RemoteViews.addView 动态插行在这些桌面上 inflate 失败。改为布局里预置 5 行任务行，Provider 只做填值与显隐，彻底不用 addView；每行的点击/快捷完成 PendingIntent 挂在预置 id 上，兼容性与点击可靠性同步提升",
+  "publishedAt": "2026-11-16T02:13:04Z",
+  "size": 14422461
 }
