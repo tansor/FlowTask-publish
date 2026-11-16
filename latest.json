@@ -1,8 +1,8 @@
 {
-  "versionName": "20261116.1852",
+  "versionName": "20261116.1859",
   "versionCode": 20261116,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261116_1852.apk",
-  "releaseNotes": "清单小插件自适应高度：行高按卡片高度均分填满消除底部空白，字号按高度分档放大，5×3可显示6行",
-  "publishedAt": "2026-11-16T10:52:33Z",
-  "size": 14427477
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261116_1859.apk",
+  "releaseNotes": "清单小插件字号整体提高一档：常规14sp、5×3为15sp，标题计数标签同步放大",
+  "publishedAt": "2026-11-16T10:59:53Z",
+  "size": 14427457
 }
