@@ -1,8 +1,8 @@
 {
-  "versionName": "20261116.0935",
+  "versionName": "20261116.0940",
   "versionCode": 20261116,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261116_0935.apk",
-  "releaseNotes": "新增两套安卓桌面小插件：方案一 2×2 今日待办计数卡（待办数/已完成/进度条，整卡点击打开）；方案二 4×3 今日清单（已过期与今天任务、优先级色条、时间标签、点行跳详情、右上+直接新建，可拉伸自动增行）。设置页「外观」新增「小插件快捷完成」开关，开启后清单行首圆圈可桌面直接勾选/取消完成。刷新由数据变更主动推送（150ms 合并节流）+ 跨天/时间/时区/开机广播兜底，深色跟随应用主题；仅声明 home_screen 不进锁屏",
-  "publishedAt": "2026-11-16T01:35:23Z",
-  "size": 14420261
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261116_0940.apk",
+  "releaseNotes": "补齐：切换深色/浅色模式时立即刷新桌面小插件配色，避免 widget 停留在旧主题直到下次任务变更",
+  "publishedAt": "2026-11-16T01:40:44Z",
+  "size": 14419965
 }
