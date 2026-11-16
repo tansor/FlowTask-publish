@@ -1,8 +1,8 @@
 {
-  "versionName": "20261116.1949",
+  "versionName": "20261116.2005",
   "versionCode": 20261116,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261116_1949.apk",
-  "releaseNotes": "清单小插件字号真正放大：改布局XML固定字号(任务15sp/标题15sp/计数14sp)，修复动态字号被ROM忽略导致的不生效",
-  "publishedAt": "2026-11-16T11:49:11Z",
-  "size": 14427401
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261116_2005.apk",
+  "releaseNotes": "清单小插件排版重做：字放大到16.5sp压紧行距；快捷完成关闭时隐藏复选框；计数改为已完成/总数(0/16)修复口径错误",
+  "publishedAt": "2026-11-16T12:05:39Z",
+  "size": 14427449
 }
