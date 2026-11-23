@@ -1,8 +1,8 @@
 {
-  "versionName": "20261117.1309",
-  "versionCode": 20261117,
-  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261117_1309.apk",
-  "releaseNotes": "清单小插件三项调整：行数随高度自适应(高4=6条/高5=8条)；排序改今天>逾期/优先级/有时间点优先且已完成不展示；日期与已过期合并一行",
-  "publishedAt": "2026-11-17T05:09:17Z",
-  "size": 14428661
+  "versionName": "20261123.1108",
+  "versionCode": 20261123,
+  "downloadUrl": "https://raw.githubusercontent.com/tansor/FlowTask-publish/main/FlowTask_release_20261123_1108.apk",
+  "releaseNotes": "新建浮窗草稿防误触：关闭时暂存表单(含备注)为唯一隐藏草稿，再打开自动回填，提交成功后清空并重置；编辑模式不受影响",
+  "publishedAt": "2026-11-23T03:08:55Z",
+  "size": 14433229
 }
